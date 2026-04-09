@@ -1,3 +1,4 @@
+# GUI based Student Management System
 import tkinter as tk
 
 students = []
